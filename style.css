@@ -40,6 +40,11 @@ p{
 }
 @media (max-width:480px)
 {
+     .o 
+    {
+        position: relative;
+        left:-150px;
+    }
     h1 
     {
         font-size: 3rem;
@@ -59,5 +64,15 @@ p{
     .player{
         width: 30%;
         height: 100%;
+    }
+    #player1 
+    {
+          position: relative;
+          left:35px
+    }
+    #player2
+    {
+          position: relative;
+          right:-30px
     }
 }
