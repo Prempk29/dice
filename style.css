@@ -43,7 +43,7 @@ p{
      .o 
     {
         position: relative;
-        left:-150px;
+        left:-125px;
     }
     h1 
     {
@@ -68,11 +68,11 @@ p{
     #player1 
     {
           position: relative;
-          left:35px
+          left:60px
     }
     #player2
     {
           position: relative;
-          right:-30px
+          right:-60px
     }
 }
